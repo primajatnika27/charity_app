@@ -78,3 +78,20 @@ This project using clean architecture pattern and Providers for State management
 ```
 
 # PREVIEW
+![splash_screen](https://github.com/primajatnika27/charity_app/assets/51253537/34267abb-805f-4744-8ea1-b862ab560d2b)
+![sigIn_screen](https://github.com/primajatnika27/charity_app/assets/51253537/643db3cb-4d8f-4d49-a45e-39897d871298)
+![sigUp_screen](https://github.com/primajatnika27/charity_app/assets/51253537/f31d3dd9-f8ce-4fd6-b0db-9151f487fd58)
+![verify_screen](https://github.com/primajatnika27/charity_app/assets/51253537/a3aa54b0-b248-49bb-b639-96d1cd177cfe)
+![home_screen_01](https://github.com/primajatnika27/charity_app/assets/51253537/ddcda547-f9a4-4412-b3b0-90797048f1dc)
+![home_screen_02](https://github.com/primajatnika27/charity_app/assets/51253537/ef3473b1-8ca0-404a-92bd-80ea07eda191)
+![dashboard_screen_01](https://github.com/primajatnika27/charity_app/assets/51253537/77f489c1-71f5-42dd-9395-c58d4ae809ef)
+![dashboard_screen_02](https://github.com/primajatnika27/charity_app/assets/51253537/76f5de49-1c1d-4f17-896c-ee45423a4f4f)
+![campaign_screen_01](https://github.com/primajatnika27/charity_app/assets/51253537/7c70ee0f-d05c-4363-9385-3815d06e0868)
+![campaign_screen_02](https://github.com/primajatnika27/charity_app/assets/51253537/9b5db0bd-2869-4d99-9349-4e727b47e083)
+![payment_screen_01](https://github.com/primajatnika27/charity_app/assets/51253537/ca91e813-cf10-4931-8f31-8ca91fcc96ba)
+![payment_screen_02](https://github.com/primajatnika27/charity_app/assets/51253537/47a590a0-1256-48c0-9405-b8691551118e)
+
+
+
+
+
